@@ -53,7 +53,7 @@ Eğer demo sürüme erişiminiz varsa:
 
 ## 🎬 Demo Video
 
-> Çok Yakında!
+📺 [Videoyu YouTube’da izle](https://www.youtube.com/watch?v=mceU2-mPfhQ)
 
 ---
 ## 🌟 Destek Ol
@@ -69,4 +69,5 @@ Projeye destek olmak için repo'yu **yıldızlamayı (⭐)** unutmayın!
 ---------
 
 <div align="center"><img src="fxaltra-r-nbg-g.png"  width=120 /></div>
+
 
