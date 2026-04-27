@@ -63,7 +63,7 @@ Projeye destek olmak için repo'yu **yıldızlamayı (⭐)** unutmayın!
 ---
 
 **FezaiTech İletişim:**  
-- [LinkedIn](https://www.linkedin.com/company/fezaitech)
+- 💼 [LinkedIn](https://www.linkedin.com/company/fezaitech)
 - 📧 [fezaitech@gmail.com](mailto:fezaitech@gmail.com)
 
 ---------
